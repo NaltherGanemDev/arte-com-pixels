@@ -1,0 +1,17 @@
+{
+  "name": "arte-com-pixels",
+  "version": "1.0.0",
+  "description": "Para realizar o projeto, atente-se a cada passo descrito a seguir, e se tiver qualquer dúvida, nos envie por Slack! #vqv :rocket:",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite --open",
+    "start": "npx http-server ./dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^5.2.9"
+  }
+}
